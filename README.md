@@ -1,2 +1,5 @@
-# integrando-python-com-open-ai-GPT
-Integrando com Open AI (GPT) utilizando Python
+# Integrando com Open AI (GPT) utilizando Python
+
+- [Criar conta na OpenAI](https://platform.openai.com/signup)
+
+- [Documentação da OpenAI](https://platform.openai.com/docs/overview)
